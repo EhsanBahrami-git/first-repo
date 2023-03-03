@@ -22,10 +22,6 @@
             }
         }
         echo __DIR__.DIRECTORY_SEPARATOR.'classes'.'class-'.$className.'';
-        // new animal();
-        // function __autoload($className){
-            
-        // }
     ?>
 </body>
 
