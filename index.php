@@ -21,7 +21,7 @@
                 echo "one car with model ".$this -> model." and " .$this -> color." color goen. <br>";
             }
         }
-        echo __DIR__.DIRECTORY_SEPARATOR.'classes'.'class-'.$className.'';
+        echo __DIR__.DIRECTORY_SEPARATOR.'classes'.'class-'.$className.''
     ?>
 </body>
 
